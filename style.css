@@ -1,0 +1,23 @@
+h1{
+font-size: 30px;
+text-align: center;
+color: #de7471
+}
+
+p{
+font-size: 20px;
+text-align: left;
+font-family: Helvetica, sans-serif;
+}
+
+body {
+background-color: #f9f9f9;
+}
+
+.bandeau {
+    background-color: #f36e61;   /* orange du logo */
+    width: 100%;
+    padding: 40px 0;            /* espace autour du logo */
+    display: flex;
+    justify-content: center;    /* centre l’image */
+}
